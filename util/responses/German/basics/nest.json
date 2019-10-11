@@ -9,11 +9,11 @@
         "title": "Nicht Gemeldet",
         "description": "Seit der letzten Migration wurden keine Pokemon gemeldet. Besuche den Park und berichte , was du gefunden hast!"
     },
-    "type": "Type",
+    "type": "Typ",
     "boost": "Boost",
 
     "search": {
         "worldwide": "Reported & Unreported Worldwide",
-        "statewide": "Reported Statewide"
+        "statewide": "Bundeslandweit gemeldet"
     }
 }
